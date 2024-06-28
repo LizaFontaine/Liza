@@ -8,6 +8,6 @@
 
 🤝 Looking for a job as a **Data / Business Analyst** in remote
 
-📧 Reach me : fontaineliza@gmail.com
+📧 Reach me out : fontaineliza@gmail.com
 
 www.linkedin.com/in/liza-fontaine/
