@@ -20,15 +20,13 @@
 
 ### Langages et outils : 
 
-<a href="https://www.python.org/">
-  <img src="https://github.com/LizaFontaine/Liza/blob/main/Python.png?raw=true" alt="Gmail" width="80" height="80">
-</a>
+![Power BI](https://github.com/LizaFontaine/Liza/assets/161335258/e0badcfb-159e-4de6-a1b2-f4cdb6ccdff9)
 
-<a href="https://www.w3schools.com/sql/sql_intro.asp">
-  <img src="https://github.com/LizaFontaine/Liza/blob/main/SQL.png?raw=true" alt="Gmail" width="80" height="80">
-</a>
+![SQL](https://github.com/LizaFontaine/Liza/assets/161335258/07393a8f-539c-40af-be00-b345fb5e674d)
 
-<a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi">
-  <img src="https://github.com/LizaFontaine/Liza/blob/main/Power%20BI.jpeg?raw=true" alt="Gmail" width="80" height="70">
-</a>
+![Python](https://github.com/LizaFontaine/Liza/assets/161335258/0f627481-e15f-4f36-a187-716ac342347d)
+
+![Excel](https://github.com/LizaFontaine/Liza/assets/161335258/a78d9fd9-6efb-4bb8-b76a-7b5c61ec87fb)
+
+![VS Code](https://github.com/LizaFontaine/Liza/assets/161335258/3c733ff7-ed2c-424e-b04d-eafec1ca5c2a)
 
