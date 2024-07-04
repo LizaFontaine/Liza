@@ -6,7 +6,7 @@
 
 🐱‍👤 Trained by the Wild Code School - Nantes
 
-🤝 Looking for a job as a **Data / Business Analyst** in remote
+🤝 Looking for a job as a **Data / Business Analyst** in **remote**
 
 📧 Reach me out :
 
@@ -18,5 +18,8 @@
   <img src="https://github.com/LizaFontaine/Liza/blob/main/LI-In-Bug.png?raw=true" alt="LinkedIn" width="50" height="50">
 </a>
 
-
+Langages et outils : 
+<a href="https://www.python.org/">
+  <img src="https://github.com/LizaFontaine/Liza/blob/main/t%C3%A9l%C3%A9chargement.png?raw=true" alt="Gmail" width="50" height="50">
+</a>
 
