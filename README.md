@@ -1,4 +1,4 @@
-                **Hi I'm Liza **
+                #Hi I'm Liza 👋
                 
 **A Junior Data Analyst and former accountant 💻**
 
