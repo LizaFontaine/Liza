@@ -29,6 +29,6 @@
 </a>
 
 <a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi">
-  <img src="https://github.com/LizaFontaine/Liza/blob/main/Power%20BI.jpeg?raw=true" alt="Gmail" width="80" height="80">
+  <img src="https://github.com/LizaFontaine/Liza/blob/main/Power%20BI.jpeg?raw=true" alt="Gmail" width="80" height="70">
 </a>
 
