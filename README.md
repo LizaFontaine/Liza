@@ -11,6 +11,6 @@
 📧 Reach me out :
 [![Gmail]("C:\Users\PC\Documents\PRO\LOGO GITHUB PREZ\téléchargement.png")](mailto:fontaineliza@gmail.com)
 
-[![LinkedIn](C:\Users\PC\Documents\PRO\LOGO GITHUB PREZ\LI-In-Bug.png)](https://www.linkedin.com/in/liza-fontaine/)
+[![LinkedIn](https://github.com/LizaFontaine/Liza/blob/main/LI-In-Bug.png?raw=true)](https://www.linkedin.com/in/liza-fontaine/)
 
 
