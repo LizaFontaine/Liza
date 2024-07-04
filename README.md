@@ -20,13 +20,5 @@
 
 ### Langages et outils : 
 
-![Power BI](https://github.com/LizaFontaine/Liza/assets/161335258/e0badcfb-159e-4de6-a1b2-f4cdb6ccdff9)
-
-![SQL](https://github.com/LizaFontaine/Liza/assets/161335258/07393a8f-539c-40af-be00-b345fb5e674d)
-
-![Python](https://github.com/LizaFontaine/Liza/assets/161335258/0f627481-e15f-4f36-a187-716ac342347d)
-
-![Excel](https://github.com/LizaFontaine/Liza/assets/161335258/a78d9fd9-6efb-4bb8-b76a-7b5c61ec87fb)
-
-![VS Code](https://github.com/LizaFontaine/Liza/assets/161335258/3c733ff7-ed2c-424e-b04d-eafec1ca5c2a)
+![Power BI](https://github.com/LizaFontaine/Liza/assets/161335258/e0badcfb-159e-4de6-a1b2-f4cdb6ccdff9) ![SQL](https://github.com/LizaFontaine/Liza/assets/161335258/07393a8f-539c-40af-be00-b345fb5e674d) ![Python](https://github.com/LizaFontaine/Liza/assets/161335258/0f627481-e15f-4f36-a187-716ac342347d) ![Excel](https://github.com/LizaFontaine/Liza/assets/161335258/a78d9fd9-6efb-4bb8-b76a-7b5c61ec87fb) ![VS Code](https://github.com/LizaFontaine/Liza/assets/161335258/3c733ff7-ed2c-424e-b04d-eafec1ca5c2a)
 
