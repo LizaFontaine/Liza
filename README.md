@@ -19,7 +19,16 @@
 </a>
 
 Langages et outils : 
+
 <a href="https://www.python.org/">
   <img src="https://github.com/LizaFontaine/Liza/blob/main/Python.png?raw=true" alt="Gmail" width="50" height="50">
+</a>
+
+<a href="https://www.w3schools.com/sql/sql_intro.asp">
+  <img src="https://github.com/LizaFontaine/Liza/blob/main/Python.png?raw=true" alt="Gmail" width="50" height="50">
+</a>
+
+<a href="https://www.microsoft.com/fr-fr/power-platform/products/power-bi">
+  <img src="https://github.com/LizaFontaine/Liza/blob/main/Power%20BI.jpeg?raw=true" alt="Gmail" width="50" height="50">
 </a>
 
