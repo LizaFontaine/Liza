@@ -8,6 +8,9 @@
 
 🤝 Looking for a job as a **Data / Business Analyst** in remote
 
-📧 Reach me out : fontaineliza@gmail.com
+📧 Reach me out :
+[![Gmail]("C:\Users\PC\Documents\PRO\LOGO GITHUB PREZ\téléchargement.png")](mailto:fontaineliza@gmail.com)
 
-www.linkedin.com/in/liza-fontaine/
+[![LinkedIn](C:\Users\PC\Documents\PRO\LOGO GITHUB PREZ\LI-In-Bug.png)](https://www.linkedin.com/in/liza-fontaine/)
+
+
