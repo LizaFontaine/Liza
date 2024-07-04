@@ -11,11 +11,11 @@
 ### 📧 Reach me out :
 
 <a href="mailto:fontaineliza@gmail.com">
-  <img src="![téléchargement](https://github.com/LizaFontaine/Liza/assets/161335258/ad332583-bb1b-40e6-b3d1-1dd25c0662b0)" alt="Gmail" width="50" height="50">
+  <img src="https://github.com/LizaFontaine/Liza/assets/161335258/ad332583-bb1b-40e6-b3d1-1dd25c0662b0" alt="Gmail" width="50" height="50">
 </a>
 
 <a href="https://https://www.linkedin.com/in/liza-fontaine/">
-  <img src="![LI-In-Bug](https://github.com/LizaFontaine/Liza/assets/161335258/8de4b628-bc18-4d8b-b1bb-28712678991d)" alt="LinkedIn" width="50" height="50">
+  <img src="https://github.com/LizaFontaine/Liza/assets/161335258/8de4b628-bc18-4d8b-b1bb-28712678991d" alt="LinkedIn" width="50" height="50">
 </a>
 
 ### Langages et outils : 
