@@ -8,7 +8,7 @@
 
 - 🤝 Looking for a job as a **Data / Business Analyst** in **remote**
 
-### 📧 Reach me out :
+### Reach me out :
 
 <a href="mailto:fontaineliza@gmail.com">
   <img src="https://github.com/LizaFontaine/Liza/assets/161335258/ad332583-bb1b-40e6-b3d1-1dd25c0662b0" alt="Gmail" width="50" height="50">
