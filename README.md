@@ -20,6 +20,6 @@
 
 Langages et outils : 
 <a href="https://www.python.org/">
-  <img src="https://github.com/LizaFontaine/Liza/blob/main/t%C3%A9l%C3%A9chargement.png?raw=true" alt="Gmail" width="50" height="50">
+  <img src="https://github.com/LizaFontaine/Liza/blob/main/Python.png?raw=true" alt="Gmail" width="50" height="50">
 </a>
 
