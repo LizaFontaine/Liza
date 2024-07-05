@@ -26,3 +26,7 @@
 <img src="https://github.com/LizaFontaine/Liza/assets/161335258/d7b850c4-e788-4c3e-bb20-60e8cf53de5a" alt="Excel" width="60" height="60">
 <img src="https://github.com/LizaFontaine/Liza/assets/161335258/3c733ff7-ed2c-424e-b04d-eafec1ca5c2a" alt="VS Code" width="60" height="60">
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LizaFontaine&layout=compact)
+
+
